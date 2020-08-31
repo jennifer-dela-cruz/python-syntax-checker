@@ -6,6 +6,7 @@ This program uses ASCII characters
 
 # Operator Symbols
 Addition: PLUS x y
+
 Subtraction: MINUS x y
 Multiplication: TIMES x y
 Division: DIVBY x y
