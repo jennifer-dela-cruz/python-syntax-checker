@@ -1,3 +1,7 @@
+# About
+This program checks if the sytax entered by the user is correct. It does not evaluate the expression.
+
+
 # Running python-syntax-checker
 python3 jh-delacruz-01.py
 
