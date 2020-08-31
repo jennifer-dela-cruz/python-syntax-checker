@@ -13,7 +13,7 @@ Multiplication: TIMES x y
 
 Division: DIVBY x y
 
-MODU:  MODU x y
+Modulo:  MODU x y
 
 # Other Commands
 Starts the program: CREATE
