@@ -8,12 +8,18 @@ This program uses ASCII characters
 Addition: PLUS x y
 
 Subtraction: MINUS x y
+
 Multiplication: TIMES x y
+
 Division: DIVBY x y
+
 MODU:  MODU x y
 
 # Other Commands
 Starts the program: CREATE
+
 Ends the program: RUPTURE
+
 Prints a string: GIVEYOU! string
+
 Prints a string with new line: GIVEYOU!! string
